@@ -1,0 +1,85 @@
+h1 {
+  text-align: right;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 30px;
+  letter-spacing: 6px;
+  word-spacing: 6px;
+  color: #ff0000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: uppercase;
+}
+
+body {
+  background-attachment: fixed;
+  background-image: url(https://www.leshouches.fr/wp-content/uploads/2015/10/cin%C3%A9ma.jpg);
+}
+
+nav {
+  border: 6px inset rgba(255, 0, 0, 0.53);
+  background-color: #ff0000;
+  background-attachment: fixed;
+  background-image: url(https://www.leshouches.fr/wp-content/uploads/2015/10/cin%C3%A9ma.jpg);
+}
+section img {
+  /*padding-bottom: 350px;*/
+  max-width: 100px;
+  max-height: 350px;
+}
+
+.card {
+  background-color: lightgrey;
+  margin: 100px;
+  padding: 50px;
+  background-image: url();
+}
+
+footer .Copyright {
+  text-align: right;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 11px;
+  letter-spacing: 6px;
+  word-spacing: 6px;
+  color: #ff0000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: none;
+}
+
+footer .Emi {
+  text-align: right;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  letter-spacing: 6px;
+  word-spacing: 6px;
+  color: #ff0000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: none;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 50px;
+  color: red;
+  text-shadow: 11px 1px 7px rgba(0, 0, 0, 0.788);
+  font-size: 40px;
+}
+.myDiv {
+  text-align: left;
+  font-family: "Comic Sans MS", "Comic Sans MS Grande", sans-serif;
+  font-size: 14px;
+  letter-spacing: 6px;
+  word-spacing: 6px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
